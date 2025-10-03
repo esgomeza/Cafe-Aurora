@@ -7,7 +7,7 @@ La página web tiene como propósito mejorar la visibilidad del negocio, facilit
 
 ## Authors
 
-- [@Gomez](https://www.instagram.com/santiago04gomz)
+Santiago Gomez Arias 192614
 
 
 ## 🚀 About Me
